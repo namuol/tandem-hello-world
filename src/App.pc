@@ -1,0 +1,57 @@
+{
+  "id": "e25b2941",
+  "name": "module",
+  "version": "0.0.6",
+  "children": [
+    {
+      "label": "App",
+      "is": "div",
+      "style": {
+        "display": "flex",
+        "align-items": "center",
+        "justify-content": "center",
+        "align-content": "center",
+        "flex-direction": "column",
+        "padding-left": "16px",
+        "padding-top": "16px",
+        "padding-right": "16px",
+        "padding-bottom": "16px",
+        "height": "100%",
+        "width": "100%",
+        "flex": "1"
+      },
+      "attributes": {},
+      "id": "d81d579037",
+      "name": "component",
+      "children": [
+        {
+          "id": "d81d579036",
+          "name": "text",
+          "label": "Text",
+          "value": "👋 Hello, Tandem!",
+          "style": {},
+          "children": [
+            {
+              "id": "d81d579065",
+              "name": "variant-trigger",
+              "targetVariantId": null,
+              "children": [],
+              "metadata": {}
+            }
+          ],
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "bounds": {
+          "left": -94,
+          "top": 115,
+          "right": 232,
+          "bottom": 536
+        }
+      },
+      "variant": {}
+    }
+  ],
+  "metadata": {}
+}
