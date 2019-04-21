@@ -1,3 +1,22 @@
+# Tandem Quick Start
+
+```sh
+# Clone the project
+git clone git@github.com:namuol/tandem-hello-world.git
+
+# Install all dependencies
+cd tandem-hello-world
+npm install
+
+# Open the Tandem editor
+npx tandem open
+
+# Run the development server
+npm start
+```
+
+----
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
